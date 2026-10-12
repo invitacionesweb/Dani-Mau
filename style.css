@@ -447,7 +447,7 @@ position: absolute; /* Se posiciona respecto al más cercano "relative" */
 }
 .forms p {
 
-    max-width: 480px;
+    max-width: 400px;
     font-size: 1.1em;
     padding: 10px 0 20px 0;
     margin: auto;
