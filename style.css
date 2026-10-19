@@ -662,7 +662,7 @@ label .grupo-opciones {
 }
 
 .accordion-header:hover {
-    background-color:var(--color-terciario);
+    background-color:transparent;
 }
 
 .accordion-content {
